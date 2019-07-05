@@ -56,6 +56,12 @@ dependencies {
 
     // Firebase Storage
     api 'com.google.firebase:firebase-storage:17.0.0'
+
+    // Firebase Notification
+    api 'com.google.firebase:firebase-messaging:17.6.0'
+
+    // Firebase Remote Config
+    api 'com.google.firebase:firebase-config:16.5.0'
 }
 
 // Apply Google service plugin to load the google-services.json file downloaded from Firebase
