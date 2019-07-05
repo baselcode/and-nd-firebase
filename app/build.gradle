@@ -53,6 +53,9 @@ dependencies {
 
     // FirebaseUI auth
     api 'com.firebaseui:firebase-ui-auth:4.2.1'
+
+    // Firebase Storage
+    api 'com.google.firebase:firebase-storage:17.0.0'
 }
 
 // Apply Google service plugin to load the google-services.json file downloaded from Firebase
